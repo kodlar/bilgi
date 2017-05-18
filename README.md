@@ -24,12 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-test
-<a href="https://kodlar.github.io/bilgi/">Site adresi</a>
-[Site adresi](https://kodlar.github.io/bilgi/).
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
 ```
+
+[Site adresi](https://kodlar.github.io/bilgi/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
