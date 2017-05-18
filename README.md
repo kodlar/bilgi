@@ -25,10 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Site adresi](https://kodlar.github.io/bilgi/)
+[Site adresi](https://kodlar.github.io/bilgi/).
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
