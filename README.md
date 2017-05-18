@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[Site adresi] (https://kodlar.github.io/bilgi/)
+[https://kodlar.github.io/bilgi/] (Site adresi)
 
 ```
 
